@@ -9,8 +9,10 @@
 0x01 使用方法
 
  将xray nuclei Finger observer oneforall ksubdomain放到根目录下，实现自动化，使用xray高级版效果更佳
+ 
  执行：python3 londly.py -d xxx.com你 注意下载的工具文件命名要和脚本的文件命名相同
- 执行完上面命令，等着收成果即可，建议使用VPS
+
+执行完上面命令，等着收成果即可，建议使用VPS
  
 
 0x02 调用的项目地址
