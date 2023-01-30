@@ -37,7 +37,7 @@
  
 0x03 使用注意事项
  1.将oneforall所有API配置上后在和ksub结合收集的子域名最全。
- 2.下载的脚本，请查看脚本里的xray，observer,nuclei等的文件命名，将调用的项目名称改为和脚本里的名称相同，否则报错。
+ 2.调用的项目改为xray_linux_amd64 nuclei ksubdomain OneForAll Finger 
  3.部分用户反映调用的时候没有d.txt文件，原因为：网络差或者换个子域名(可能ksub没有爆破出子域名,所以没有生成d.txt结果)。
  4.下载的脚本里带result/onedomain文件夹。因为所有文件保存在根目录感觉太乱了。
 
