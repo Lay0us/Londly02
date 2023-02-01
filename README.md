@@ -13,6 +13,8 @@
  执行：python3 londly.py -d xxx.com  注意下载的工具文件命名要和脚本的文件命名相同
 
 执行完上面命令，等着收成果即可，建议使用VPS
+![图片](https://user-images.githubusercontent.com/118274389/216053913-db536232-9cd1-4100-97d6-0c8f3611d41f.png)
+
  
 
 0x02 调用的项目地址
