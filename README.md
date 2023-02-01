@@ -13,7 +13,6 @@
  执行：python3 londly.py -d xxx.com  注意下载的工具文件命名要和脚本的文件命名相同
 
 执行完上面命令，等着收成果即可，建议使用VPS
-![图片](https://user-images.githubusercontent.com/118274389/216053913-db536232-9cd1-4100-97d6-0c8f3611d41f.png)
 
  
 
@@ -42,6 +41,9 @@
  2.调用的项目改为xray_linux_amd64 nuclei ksubdomain OneForAll Finger 否则运行时报错
  3.部分用户反映调用的时候没有d.txt文件，原因为：网络差或者换个子域名(可能ksub没有爆破出子域名,所以没有生成d.txt结果)。
  4.下载的脚本里带result/onedomain文件夹。因为所有文件保存在根目录感觉太乱了。
+ 5.项目整体文件如下：
+ ![图片](https://user-images.githubusercontent.com/118274389/216054336-920f50dd-4211-4cd1-8f40-2f05fec2d82f.png)
+
 
 0x04 免责声明
 
